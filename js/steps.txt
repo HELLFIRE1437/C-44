@@ -1,0 +1,13 @@
+> database
+> form.js 
+> game.js fomalities then call in sketch
+> player.js formalities
+> make players node
+> with player1 & player2 with 'x' & 'y'
+> greet
+> playerPaddle
+
+
+
+features in game 
+ > powered shot ??
